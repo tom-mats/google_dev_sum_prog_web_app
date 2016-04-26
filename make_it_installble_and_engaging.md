@@ -22,3 +22,5 @@
 昔は真っ白な画面が表示されるだけなのでイマイチ
 
 manifestsにsphlashスクリーンの情報を記載できる
+
+https://developer.mozilla.org/en-US/docs/Web/API/Window/onbeforeinstallprompt
