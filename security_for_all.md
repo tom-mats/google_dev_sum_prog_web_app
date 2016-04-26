@@ -27,3 +27,4 @@ httpsの重要度は増している．Service workers はhttps前提
   * 一番新しいくて安全なのを生成してくれる
 * ssl Lab
 * chrome のdevtools
+https://developers.google.com/web/updates/2015/12/security-panel?hl=en

@@ -12,6 +12,9 @@ Webのシンプルさは重要(urlのみでアクセスできる)
 
 ## Slice
 
+SLICE: The Web
+https://paul.kinlan.me/slice-the-web/
+
 engagingなサービスを作る.
 
 ユーザーはすぐアクセスできる
@@ -76,3 +79,5 @@ Service workers : chrome firefox opera OK. Edge, Safariは将来実装予定
 ## Flipkart
 
 * つかう時間が3倍に
+
+http://www.slideshare.net/robnyman/progressive-web-apps-keynote-google-developer-summit-tokyo-japan/
